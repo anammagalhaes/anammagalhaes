@@ -8,6 +8,8 @@
 - LinkedIn - [Ana Maria dos Santos Magalhães](https://in.linkedin.com/in/ana-maria-magalhaes)
 
  or give some ♥ on [mail](mailto:anamariaeal@gmail.com) 
+ 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=anammagalhaes/anammagalhaes)
 
 <!--
 **anammagalhaes/anammagalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
