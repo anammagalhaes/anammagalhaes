@@ -14,7 +14,8 @@ Here are a few things I have been picked up along my learning journey.
 
 ## 📫 Get in touch
 - LinkedIn - [Ana Maria dos Santos Magalhães](https://in.linkedin.com/in/ana-maria-magalhaes)
-
+- Instagram - [@lanceosdados](https://www.instagram.com/lanceosdados/)
+- Medium - [Ana Maria Magalhães](https://medium.com/@anamariaeal)
 
  or give some :love_letter: on [mail](mailto:anamariaeal@gmail.com)!
  
