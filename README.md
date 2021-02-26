@@ -15,14 +15,7 @@
  
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=anammagalhaes/anammagalhaes)
  
- <p align="center">
-<a href="https://github.com/anammagalhaes">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=anammagalhaestheme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/anammagalhaes">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anammagalhaes&layout=compact&theme=great-gatsby" />
-</a>
-</p>
+
  
 
 <!--
