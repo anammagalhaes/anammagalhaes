@@ -1,7 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am Ana Maria! :rocket: :cherries: :bar_chart:
-
-
-
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <h1 align="center">Hi, I am Ana Maria! Welcome! </h1>:rocket: :cherries: :bar_chart:
 
 
 ## 📫 Get in touch
