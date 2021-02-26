@@ -1,6 +1,9 @@
 <!-- ![](https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966 "Link to gif")
 -->
 # <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am Ana Maria! Welcome! :rocket: :cherries: :bar_chart:</h1>
+I am a Food Engineer and a PhD student at the Faculty of Food Engineering at UNICAMP. Since 2019 I have been working on Machine Learning projects for oil, fat and biodiesel processes. I am passionate about technologies and I’m currently learning about REACT.js at Campinas Tech Talents to venture into the front end too. 
+
+These, here are a few things I have been picked up along my learning journey.
 
 <img align="right" height="270px" alt="GIF" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" /> 
 
