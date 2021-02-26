@@ -6,6 +6,7 @@
 
 ## 📫 Get in touch
 - LinkedIn - [Ana Maria dos Santos Magalhães](https://in.linkedin.com/in/ana-maria-magalhaes)
+- Telephone - (19) 98458-2900
 
  or give some :love_letter: on [mail](mailto:anamariaeal@gmail.com) 
  
