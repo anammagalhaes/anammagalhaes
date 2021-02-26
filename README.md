@@ -5,7 +5,7 @@
 
 
 ## 📫 Get in touch
-- LinkedIn - [Adnan Azmee](https://in.linkedin.com/in/adnanazmee)
+- LinkedIn - [Adnan Azmee](https://in.linkedin.com/in/ana-maria-magalhaes)
 
  [mail](mailto:anamariaeal@gmail.com) 
 
