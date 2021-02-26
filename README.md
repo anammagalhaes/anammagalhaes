@@ -7,7 +7,7 @@
 ## 📫 Get in touch
 - LinkedIn - [Ana Maria dos Santos Magalhães](https://in.linkedin.com/in/ana-maria-magalhaes)
 
- or give some ♥ on [mail](mailto:anamariaeal@gmail.com) 
+ or give some :love_letter: on [mail](mailto:anamariaeal@gmail.com) 
  
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=anammagalhaes/anammagalhaes)
 
