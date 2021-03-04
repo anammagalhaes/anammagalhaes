@@ -19,7 +19,11 @@ Here are a few things I have been picked up along my learning journey.
 
  or give some :love_letter: on [mail](mailto:anamariaeal@gmail.com)!
  
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=anammagalhaes/anammagalhaes)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=anammagalhaes/anammagalhaes)
+[![Years Badge](https://badges.pufler.dev/years/anammagalhaes)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/anammagalhaes)](https://badges.pufler.dev)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=anammagalhaes&theme=blue-green)
+
  
 
  
