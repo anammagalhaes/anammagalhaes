@@ -26,6 +26,8 @@ Here are a few things I have been picked up along my learning journey.
 [![Repos Badge](https://badges.pufler.dev/repos/anammagalhaes)](https://badges.pufler.dev)
 
 ## :rocket: Projects: 
+
+# :bar_chart: Data Science/Machine Learning/Python: 
 * [Análise da Violência no Rio de Janeiro](https://github.com/anammagalhaes/Analise_dos_dados_de_violencia_no_Rio_de_Janeiro)
 * [Análise dos Dados do Airbnb de Paris](https://github.com/anammagalhaes/Analise_dos_dados_do_Airbnb_de_Paris)
 * [Detecção de Câncer de Mama com Machine Learning](https://github.com/anammagalhaes/Detec-o_cancer_mama_Machine_Learning)
@@ -33,8 +35,8 @@ Here are a few things I have been picked up along my learning journey.
 * [Churn Prediction para uma empresa de Telecomunicações](https://github.com/anammagalhaes/Churn_Prediction_empresa_de_telecomunicacoes)
 * [Análise de Risco de Crédito](https://github.com/anammagalhaes/An-lise_de_Risco_de_Credito)
 * [Detecção de fraudes em cartão de crédito usando Machine Learning](https://github.com/anammagalhaes/Deteccao_de_fraudes_em_cartao_de_credito_usando_Machine_Learning)
-* [Predição da viscosidade de biodiesel por Redes Neurais Artificiais] (https://github.com/anammagalhaes/Predicao_de_viscosidade_de_biodiesel_Redes_Neurais_Artificiais)
-* [Regressão Linear Multipla com dados de cristalização de biodiesel] (https://github.com/anammagalhaes/Regressao_Linear_Multipla_cristalizacao_biodiesel)
+* [Predição da viscosidade de biodiesel por Redes Neurais Artificiais](https://github.com/anammagalhaes/Predicao_de_viscosidade_de_biodiesel_Redes_Neurais_Artificiais)
+* [Regressão Linear Multipla com dados de cristalização de biodiesel](https://github.com/anammagalhaes/Regressao_Linear_Multipla_cristalizacao_biodiesel)
  
 
  
