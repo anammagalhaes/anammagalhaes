@@ -30,6 +30,7 @@ Here are a few things I have been picked up along my learning journey.
 * [Projeto - Clone do Instagram](https://github.com/anammagalhaes/Projeto_ClonedoInstagram_CampinasTechTalents)
 * [Projeto - Catálogo de comida e bebida](https://github.com/anammagalhaes/Projeto_CatalogoFoodBeer_CampinasTechTalents)
 * [Exercício - Buscar CEP](https://github.com/anammagalhaes/Ex_BuscaCEP_CampinasTechTalents)
+* [Projeto - Curriculo](https://curriculo-anamaria-one.vercel.app/curriculo-anamaria-anammagalhaes.vercel.app)
  
  # 📫 Get in touch
 - LinkedIn - [Ana Maria dos Santos Magalhães](https://in.linkedin.com/in/ana-maria-magalhaes)
