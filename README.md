@@ -19,8 +19,6 @@ Here are a few things I have been picked up along my learning journey.
 
  or give some :love_letter: on [mail](mailto:anamariaeal@gmail.com)!
  
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=anammagalhaes&theme=blue-green)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anammagalhaes/anammagalhaes)
 [![Years Badge](https://badges.pufler.dev/years/anammagalhaes)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/anammagalhaes)](https://badges.pufler.dev)
@@ -37,6 +35,12 @@ Here are a few things I have been picked up along my learning journey.
 * [Detecção de fraudes em cartão de crédito usando Machine Learning](https://github.com/anammagalhaes/Deteccao_de_fraudes_em_cartao_de_credito_usando_Machine_Learning)
 * [Predição da viscosidade de biodiesel por Redes Neurais Artificiais](https://github.com/anammagalhaes/Predicao_de_viscosidade_de_biodiesel_Redes_Neurais_Artificiais)
 * [Regressão Linear Multipla com dados de cristalização de biodiesel](https://github.com/anammagalhaes/Regressao_Linear_Multipla_cristalizacao_biodiesel)
+
+## 💻 REACT JS - Curso Campinas Tech Talents/AB InBev
+* [Exercício - Lista de Usuário](https://github.com/anammagalhaes/Ex_ListadeUsuario_CampinasTechTalents)
+* [Projeto - Clone do Instagram](https://github.com/anammagalhaes/Projeto_ClonedoInstagram_CampinasTechTalents)
+* [Projeto - Catálogo de comida e bebida](https://github.com/anammagalhaes/Projeto_CatalogoFoodBeer_CampinasTechTalents)
+* [Exercício - Buscar CEP](https://github.com/anammagalhaes/Ex_BuscaCEP_CampinasTechTalents)
  
 
  
