@@ -12,17 +12,6 @@ Here are a few things I have been picked up along my learning journey.
 <a href="https://pandas.pydata.org/docs/" target="_blank"> <img src="images/pandas.png" alt="pandas" width="50" height="50" title="Pandas"/> </a>&nbsp;
 <a href="https://matplotlib.org/3.3.3/contents.html" target="_blank"> <img src="images/mat.png" alt="Matplotlib" width="80" height="50" title="Matplotlib"/>&nbsp;</a></p>  
 
-## 📫 Get in touch
-- LinkedIn - [Ana Maria dos Santos Magalhães](https://in.linkedin.com/in/ana-maria-magalhaes)
-- Instagram - [@lanceosdados](https://www.instagram.com/lanceosdados/)
-- Medium - [Ana Maria Magalhães](https://medium.com/@anamariaeal)
-
- or give some :love_letter: on [mail](mailto:anamariaeal@gmail.com)!
- 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=anammagalhaes/anammagalhaes)
-[![Years Badge](https://badges.pufler.dev/years/anammagalhaes)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/anammagalhaes)](https://badges.pufler.dev)
-
 # :rocket: Projects: 
 
 ## :bar_chart: Data Science/Machine Learning/Python: 
@@ -42,5 +31,15 @@ Here are a few things I have been picked up along my learning journey.
 * [Projeto - Catálogo de comida e bebida](https://github.com/anammagalhaes/Projeto_CatalogoFoodBeer_CampinasTechTalents)
 * [Exercício - Buscar CEP](https://github.com/anammagalhaes/Ex_BuscaCEP_CampinasTechTalents)
  
+ # 📫 Get in touch
+- LinkedIn - [Ana Maria dos Santos Magalhães](https://in.linkedin.com/in/ana-maria-magalhaes)
+- Instagram - [@lanceosdados](https://www.instagram.com/lanceosdados/)
+- Medium - [Ana Maria Magalhães](https://medium.com/@anamariaeal)
+
+ or give some :love_letter: on [mail](mailto:anamariaeal@gmail.com)!
+ 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=anammagalhaes/anammagalhaes)
+[![Years Badge](https://badges.pufler.dev/years/anammagalhaes)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/anammagalhaes)](https://badges.pufler.dev)
 
  
