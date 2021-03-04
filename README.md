@@ -25,9 +25,9 @@ Here are a few things I have been picked up along my learning journey.
 [![Years Badge](https://badges.pufler.dev/years/anammagalhaes)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/anammagalhaes)](https://badges.pufler.dev)
 
-## :rocket: Projects: 
+# :rocket: Projects: 
 
-# :bar_chart: Data Science/Machine Learning/Python: 
+## :bar_chart: Data Science/Machine Learning/Python: 
 * [Análise da Violência no Rio de Janeiro](https://github.com/anammagalhaes/Analise_dos_dados_de_violencia_no_Rio_de_Janeiro)
 * [Análise dos Dados do Airbnb de Paris](https://github.com/anammagalhaes/Analise_dos_dados_do_Airbnb_de_Paris)
 * [Detecção de Câncer de Mama com Machine Learning](https://github.com/anammagalhaes/Detec-o_cancer_mama_Machine_Learning)
