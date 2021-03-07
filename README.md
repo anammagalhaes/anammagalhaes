@@ -24,6 +24,7 @@ Here are a few things I have been picked up along my learning journey.
 * [Detecção de fraudes em cartão de crédito usando Machine Learning](https://github.com/anammagalhaes/Deteccao_de_fraudes_em_cartao_de_credito_usando_Machine_Learning)
 * [Predição da viscosidade de biodiesel por Redes Neurais Artificiais](https://github.com/anammagalhaes/Predicao_de_viscosidade_de_biodiesel_Redes_Neurais_Artificiais)
 * [Regressão Linear Multipla com dados de cristalização de biodiesel](https://github.com/anammagalhaes/Regressao_Linear_Multipla_cristalizacao_biodiesel)
+* [Predição de preço de imóveis com Redes Neurais Artificiais](https://github.com/anammagalhaes/Prevendo-pre-os-de-imoveis-com-Redes-Neurais/blob/main/Prevendo_pre%C3%A7os_de_im%C3%B3veis_com_RNA.ipynb)
 
 ## 💻 REACT JS - Curso Campinas Tech Talents/AB InBev
 * [Exercício - Lista de Usuário](https://github.com/anammagalhaes/Ex_ListadeUsuario_CampinasTechTalents)
