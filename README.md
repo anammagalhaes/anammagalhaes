@@ -33,6 +33,7 @@ Here are a few things I have been picked up along my learning journey.
 * [Exercício - Buscar CEP](https://github.com/anammagalhaes/Ex_BuscaCEP_CampinasTechTalents)
 * [Projeto - Curriculo](https://curriculo-anamaria-one.vercel.app/curriculo-anamaria-anammagalhaes.vercel.app)
 * [Projeto - e-commerce de cervejas](https://github.com/anammagalhaes/Projeto---e-commerce-de-cervejas-em-desenvolvimento-)
+* [Projeto - Landing Page](https://github.com/anammagalhaes/Projeto---Landing-Page-)
  
  # 📫 Get in touch
 - LinkedIn - [Ana Maria dos Santos Magalhães](https://in.linkedin.com/in/ana-maria-magalhaes)
