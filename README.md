@@ -12,6 +12,8 @@ Here are a few things I have been picked up along my learning journey.
 <a href="https://pandas.pydata.org/docs/" target="_blank"> <img src="images/pandas.png" alt="pandas" width="50" height="50" title="Pandas"/> </a>&nbsp;
 <a href="https://matplotlib.org/3.3.3/contents.html" target="_blank"> <img src="images/mat.png" alt="Matplotlib" width="80" height="50" title="Matplotlib"/>&nbsp;</a></p>  
 
+___
+
 # :rocket: Projects: 
 
 ## :bar_chart: Data Science/Machine Learning/Python: 
