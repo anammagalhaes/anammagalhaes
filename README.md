@@ -44,6 +44,8 @@ ___
 - Instagram - [@lanceosdados](https://www.instagram.com/lanceosdados/)
 - Medium - [Ana Maria Magalhães](https://medium.com/@anamariaeal)
 
+___
+
  or give some :love_letter: on [mail](mailto:anamariaeal@gmail.com)!
  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anammagalhaes/anammagalhaes)
