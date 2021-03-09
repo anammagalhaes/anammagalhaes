@@ -16,7 +16,7 @@ ___
 
 # :rocket: Projects: 
 
-## :bar_chart: Data Science/Machine Learning/Python: 
+# :bar_chart: Data Science/Machine Learning/Python: 
 * [Análise da Violência no Rio de Janeiro](https://github.com/anammagalhaes/Analise_dos_dados_de_violencia_no_Rio_de_Janeiro)
 * [Análise dos Dados do Airbnb de Paris](https://github.com/anammagalhaes/Analise_dos_dados_do_Airbnb_de_Paris)
 * [Detecção de Câncer de Mama com Machine Learning](https://github.com/anammagalhaes/Detec-o_cancer_mama_Machine_Learning)
@@ -28,7 +28,7 @@ ___
 * [Regressão Linear Multipla com dados de cristalização de biodiesel](https://github.com/anammagalhaes/Regressao_Linear_Multipla_cristalizacao_biodiesel)
 * [Predição de preço de imóveis com Redes Neurais Artificiais](https://github.com/anammagalhaes/Prevendo-pre-os-de-imoveis-com-Redes-Neurais/blob/main/Prevendo_pre%C3%A7os_de_im%C3%B3veis_com_RNA.ipynb)
 
-## 💻 REACT JS - Curso Campinas Tech Talents/AB InBev
+# 💻 REACT JS - Curso Campinas Tech Talents/AB InBev
 * [Exercício - Lista de Usuário](https://github.com/anammagalhaes/Ex_ListadeUsuario_CampinasTechTalents)
 * [Projeto - Clone do Instagram](https://github.com/anammagalhaes/Projeto_ClonedoInstagram_CampinasTechTalents)
 * [Projeto - Catálogo de comida e bebida](https://github.com/anammagalhaes/Projeto_CatalogoFoodBeer_CampinasTechTalents)
