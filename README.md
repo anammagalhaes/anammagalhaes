@@ -62,6 +62,6 @@ ___
  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anammagalhaes/anammagalhaes)
 [![Years Badge](https://badges.pufler.dev/years/anammagalhaes)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/anammagalhaes)](https://badges.pufler.dev)
+
 
  
