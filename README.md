@@ -33,6 +33,7 @@ ___
 * [Data Science Learning Courses](https://github.com/anammagalhaes/Data_Science_Learning_Courses)
 
 # 🎓 Ph.D.Projects - Data Science/Machine Learning/Biodiesel Properties/Amazon Oils Formulations and industrial processes. 
+* [Trabalho apresentado em 2020 Ken Kennedy Institute Data Science Conference - Simulation of Biodiesel Mixtures Formulation using  Artificial Neural Networks](file:///C:/Users/Usuario/Downloads/2020%20Conference%20Attendance%20Certificate%20-%20Ana%20Maria%20dos%20Santos%20Magalhaes.pdf)
 * [Predição da viscosidade de biodiesel por Redes Neurais Artificiais](https://github.com/anammagalhaes/Predicao_de_viscosidade_de_biodiesel_Redes_Neurais_Artificiais)
 * [Regressão Linear Multipla com dados de cristalização de biodiesel](https://github.com/anammagalhaes/Regressao_Linear_Multipla_cristalizacao_biodiesel)
 * [Random Forest para predição de propriedades de escoamento a frio de biodieseis](https://github.com/anammagalhaes/Random-Forest-para-predi-o-de-propriedades-de-escoamento-a-frio-de-biodiesel)
