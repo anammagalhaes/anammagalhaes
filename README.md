@@ -26,18 +26,18 @@ ___
 * [Detecção de fraudes em cartão de crédito usando Machine Learning](https://github.com/anammagalhaes/Deteccao_de_fraudes_em_cartao_de_credito_usando_Machine_Learning)
 * [Predição de preço de imóveis com Redes Neurais Artificiais](https://github.com/anammagalhaes/Prevendo-pre-os-de-imoveis-com-Redes-Neurais/blob/main/Prevendo_pre%C3%A7os_de_im%C3%B3veis_com_RNA.ipynb)
 * [Predição da qualiade do vinho - em desenvolvimento](https://github.com/anammagalhaes/Predicao-da-qualidade-de-vinho-)
-* [](https://github.com/anammagalhaes/Dados-de-doen-a-cora-o---uso-de-Seaborn)
-* [](https://github.com/anammagalhaes/Classificador-de-Fake-News)
+* [Dados de doença do coração - uso de Seaborn para vizualização](https://github.com/anammagalhaes/Dados-de-doen-a-cora-o---uso-de-Seaborn)
+* [Classificador de Fake News](https://github.com/anammagalhaes/Classificador-de-Fake-News)
 * [Data Science Learning Courses](https://github.com/anammagalhaes/Data_Science_Learning_Courses)
 
 # 🎓 Ph.D.Projects - Data Science/Machine Learning/Biodiesel Properties/Amazon Oils Formulations and industrial processes. 
 * [Predição da viscosidade de biodiesel por Redes Neurais Artificiais](https://github.com/anammagalhaes/Predicao_de_viscosidade_de_biodiesel_Redes_Neurais_Artificiais)
 * [Regressão Linear Multipla com dados de cristalização de biodiesel](https://github.com/anammagalhaes/Regressao_Linear_Multipla_cristalizacao_biodiesel)
-* [](https://github.com/anammagalhaes/Random-Forest-para-predi-o-de-propriedades-de-escoamento-a-frio-de-biodiesel)
-* [](https://github.com/anammagalhaes/Random-Forest-para-predi-o-da-cristaliza-o-de-biodiesel)
-* [](https://github.com/anammagalhaes/Random-Forest-para-formulacao-de-gorduras-zero-trans)
-* [](https://github.com/anammagalhaes/StandartScaler-Scikit-learn--para-padronizar-dados-de-cristaliza-o-de-biodiesel-)
-* [](https://github.com/anammagalhaes/MinMaxScaler-Scikit-learn--para-normalizar-dados-de-cristaliza-o-de-biodiesel)
+* [Random Forest para predição de propriedades de escoamento a frio de biodieseis](https://github.com/anammagalhaes/Random-Forest-para-predi-o-de-propriedades-de-escoamento-a-frio-de-biodiesel)
+* [Random Forest para predição de cristalização de biodiesel](https://github.com/anammagalhaes/Random-Forest-para-predi-o-da-cristaliza-o-de-biodiesel)
+* [Random Forest para formulação de gorduras zero trans/óleos e gorduras de origem Amazônica](https://github.com/anammagalhaes/Random-Forest-para-formulacao-de-gorduras-zero-trans)
+* [StandartScaler - Scikit learn para padronização de dados de cristalização de biodiesel](https://github.com/anammagalhaes/StandartScaler-Scikit-learn--para-padronizar-dados-de-cristaliza-o-de-biodiesel-)
+* [MinMaxScaler - Scikit learn para normalizar dados de cristalização de biodiesel](https://github.com/anammagalhaes/MinMaxScaler-Scikit-learn--para-normalizar-dados-de-cristaliza-o-de-biodiesel)
 
 
 # 💻 REACT JS - Curso Campinas Tech Talents/AB InBev
