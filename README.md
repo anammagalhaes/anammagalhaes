@@ -27,6 +27,7 @@ ___
 * [Predição da viscosidade de biodiesel por Redes Neurais Artificiais](https://github.com/anammagalhaes/Predicao_de_viscosidade_de_biodiesel_Redes_Neurais_Artificiais)
 * [Regressão Linear Multipla com dados de cristalização de biodiesel](https://github.com/anammagalhaes/Regressao_Linear_Multipla_cristalizacao_biodiesel)
 * [Predição de preço de imóveis com Redes Neurais Artificiais](https://github.com/anammagalhaes/Prevendo-pre-os-de-imoveis-com-Redes-Neurais/blob/main/Prevendo_pre%C3%A7os_de_im%C3%B3veis_com_RNA.ipynb)
+* [Predição da qualiade do vinho - em desenvolvimento] (https://github.com/anammagalhaes/Predicao-da-qualidade-de-vinho-)
 * [Data Science Learning Courses](https://github.com/anammagalhaes/Data_Science_Learning_Courses)
 
 # 💻 REACT JS - Curso Campinas Tech Talents/AB InBev
