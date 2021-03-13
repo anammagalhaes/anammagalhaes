@@ -12,6 +12,8 @@ Here are a few things I have been picked up along my learning journey.
 <a href="https://pandas.pydata.org/docs/" target="_blank"> <img src="images/pandas.png" alt="pandas" width="50" height="50" title="Pandas"/> </a>&nbsp;
 <a href="https://matplotlib.org/3.3.3/contents.html" target="_blank"> <img src="images/mat.png" alt="Matplotlib" width="80" height="50" title="Matplotlib"/>&nbsp;</a></p>  
 
+|[![anammagalhaes's github stats](https://github-readme-stats.vercel.app/api?username=anammagalhaes&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anammagalhaes/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anammagalhaes&hide=Rich%20Text%20Format,scheme,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/anammagalhaes/github-readme-stats)|
+
 ___
 
 # :rocket: Projects: 
