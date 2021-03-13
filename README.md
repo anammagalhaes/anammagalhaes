@@ -40,6 +40,7 @@ ___
 * [Random Forest para formulação de gorduras zero trans/óleos e gorduras de origem Amazônica](https://github.com/anammagalhaes/Random-Forest-para-formulacao-de-gorduras-zero-trans)
 * [StandartScaler - Scikit learn para padronização de dados de cristalização de biodiesel](https://github.com/anammagalhaes/StandartScaler-Scikit-learn--para-padronizar-dados-de-cristaliza-o-de-biodiesel-)
 * [MinMaxScaler - Scikit learn para normalizar dados de cristalização de biodiesel](https://github.com/anammagalhaes/MinMaxScaler-Scikit-learn--para-normalizar-dados-de-cristaliza-o-de-biodiesel)
+* [Redes Neurais Artificiais para predição das propriedades de escoamento a frio de biodieseis](https://github.com/anammagalhaes/Redes-Neurais-Artificiais-para-predi-o-das-propriedades-de-escoamento-a-frio-de-biodiesel-)
 
 
 # 💻 REACT JS - Curso Campinas Tech Talents/AB InBev
