@@ -29,7 +29,7 @@ ___
 * [Predição de preço de imóveis com Redes Neurais Artificiais](https://github.com/anammagalhaes/Prevendo-pre-os-de-imoveis-com-Redes-Neurais/blob/main/Prevendo_pre%C3%A7os_de_im%C3%B3veis_com_RNA.ipynb)
 * [Predição da qualiade do vinho - em desenvolvimento](https://github.com/anammagalhaes/Predicao-da-qualidade-de-vinho-)
 * [Dados de doença do coração - uso de Seaborn para vizualização](https://github.com/anammagalhaes/Dados-de-doen-a-cora-o---uso-de-Seaborn)
-* [Classificador de Fake News](https://github.com/anammagalhaes/Classificador-de-Fake-News)
+* [Classificador de Fake News - desenvolvimento](https://github.com/anammagalhaes/Classificador-de-Fake-News)
 * [Data Science Learning Courses](https://github.com/anammagalhaes/Data_Science_Learning_Courses)
 
 # 🎓 Ph.D.Projects - Data Science/Machine Learning/Biodiesel Properties/Amazon Oils Formulations and industrial processes. 
